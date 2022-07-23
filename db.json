@@ -1,0 +1,339 @@
+{
+  "posts": [
+    {
+      "title": "learn CSS",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "learn HTML",
+      "status": true,
+      "id": 3
+    },
+    {
+      "title": "Learn React",
+      "status": true,
+      "id": 4
+    },
+    {
+      "title": "Learn Redux",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "Learn JavaScript",
+      "status": true,
+      "id": 6
+    },
+    {
+      "title": "Learn Java",
+      "status": true,
+      "id": 7
+    },
+    {
+      "title": "Learn Type Script",
+      "status": true,
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/c/4ca14ce8906087779124_7_.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 350,
+      "price1": 304,
+      "d": "13% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 475,
+      "price1": 428,
+      "d": "10% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 599,
+      "price1": 515,
+      "d": "14% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904304651284_1.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 375,
+      "price1": 375,
+      "d": "0% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 499,
+      "price1": 435,
+      "d": "14% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 995,
+      "price1": 896,
+      "d": "10% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 495,
+      "price1": 420,
+      "d": "5% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 385,
+      "price1": 385,
+      "d": "0% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 560,
+      "price1": 504,
+      "d": "10% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 499,
+      "price1": 440,
+      "d": "12% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 1095,
+      "price1": 999,
+      "d": "12% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg",
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "price": 650,
+      "price1": 504,
+      "d": "18% off"
+    }
+  ],
+  "makeup": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
+      "heading": "Miss Claire Eyelash Glue - Clear Tone",
+      "price": 350,
+      "price1": 322,
+      "d": "8% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b990e16902395773146_3.jpg",
+      "heading": "Maybelline New York Fit Me Primer-Dewy+Smooth",
+      "price": 549,
+      "price1": 521,
+      "d": "5% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/9/6902395735908_0.jpg",
+      "heading": "L'Oreal Paris infallible Full Wear Concealer",
+      "price": 799,
+      "price1": 735,
+      "d": "8% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
+      "heading": "Face Canada Ultime Pro Matte Play Eyeliner",
+      "price": 649,
+      "price1": 604,
+      "d": "7% off"
+    }
+  ],
+  "skin": [
+    {
+      "heading": "Mamaearth Rice Face Scrub For Glowing With Rice Water",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/c/4ca14ce8906087779124_7_.jpg",
+      "price": "350",
+      "price1": "304",
+      "d": "13% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg",
+      "heading": "Lotus Herbals Whiteglow Vitamin C Radiance Cream Spf 20",
+      "price": "475",
+      "price1": "428",
+      "d": "10% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg",
+      "heading": "WOW Skin Caffeine Face Serum with Carcoal and Lemon",
+      "price": "599",
+      "price1": "515",
+      "d": "14% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/l/flowers-of-youth-essence-serum_2_1.jpg",
+      "heading": "Mamaearth Flowers of Youth Essence Serum With Hyaluronic Acid",
+      "price": "699",
+      "price1": "599",
+      "d": "10% off"
+    }
+  ],
+  "hair": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg",
+      "heading": "Dove Intense Repair Shampoo 650ml",
+      "price": "500",
+      "price1": "350",
+      "d": "30% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/f/efbafe2nywow000083__1_.jpg",
+      "heading": "WOW Skin Science 10 in 1 Miracle Hair",
+      "price": "599",
+      "price1": "515",
+      "d": "14% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg",
+      "heading": "WOW Skin Himalayan Rose Conditioner",
+      "price": "449",
+      "price1": "395",
+      "d": "12% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg",
+      "heading": "WOW Skin Science Moroccan Argan Hair Oil - With Combo Applicator - Cold",
+      "price": "349",
+      "price1": "349",
+      "d": "0% off"
+    }
+  ],
+  "personalcare": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png",
+      "heading": "WOW Skin Himalayan Rose Conditioner",
+      "price": "449",
+      "price1": "395",
+      "d": "12% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg",
+      "heading": "WOW Skin Himalayan Rose Conditioner",
+      "price": "449",
+      "price1": "395",
+      "d": "12% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg",
+      "heading": "WOW Skin Himalayan Rose Conditioner",
+      "price": "449",
+      "price1": "395",
+      "d": "12% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg",
+      "heading": "WOW Skin Himalayan Rose Conditioner",
+      "price": "449",
+      "price1": "395",
+      "d": "12% off"
+    }
+  ],
+  "mom": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/1/31_7_4.jpg",
+      "heading": "Dove Intense Repair Shampoo 650ml",
+      "price": "500",
+      "price1": "350",
+      "d": "30% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/0/30_6_4.jpg",
+      "heading": "WOW Skin Science 10 in 1 Miracle Hair",
+      "price": "599",
+      "price1": "515",
+      "d": "14% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/28_8_4.jpg",
+      "heading": "WOW Skin Himalayan Rose Conditioner",
+      "price": "449",
+      "price1": "395",
+      "d": "12% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
+      "heading": "WOW Skin Science Moroccan Argan Hair Oil - With Combo Applicator - Cold",
+      "price": "349",
+      "price1": "349",
+      "d": "0% off"
+    }
+  ],
+  "eye": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
+      "heading": "Miss Claire Eyelash Glue - Clear Tone",
+      "price": "350",
+      "price1": "322",
+      "d": "8% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
+      "heading": "Face Canada Ultime Pro Matte Play Eyeliner",
+      "price": "649",
+      "price1": "604",
+      "d": "7% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
+      "heading": "Colorbar Intensify Liquid Gel Eyeliner - Arban Nights",
+      "price": "750",
+      "price1": "699",
+      "d": "7% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904052409748-2.jpg",
+      "heading": "Colorbar Infinite 24Hr Eyeliner",
+      "price": "700",
+      "price1": "651",
+      "d": "7% off"
+    }
+  ],
+  "fragrance": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+      "heading": "Miss Claire Eyelash Glue - Clear Tone",
+      "price": 350,
+      "price1": 322,
+      "d": "8% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo21.jpg",
+      "heading": "Maybelline New York Fit Me Primer-Dewy+Smooth",
+      "price": 549,
+      "price1": 521,
+      "d": "5% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo20.jpg",
+      "heading": "L'Oreal Paris infallible Full Wear Concealer",
+      "price": 799,
+      "price1": 735,
+      "d": "8% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo19.jpg",
+      "heading": "Face Canada Ultime Pro Matte Play Eyeliner",
+      "price": 649,
+      "price1": 604,
+      "d": "7% off"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
